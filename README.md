@@ -19,9 +19,9 @@ Pinterest Replica
 
 <br/>
 
-##### Try Pin Board
+##### Try Pin Board App
 
-* Online  :  [pin-board](https://pin-board.herokuapp.com)    
+* Online  :  [pin-board-app](https://pin-board-app.herokuapp.com)    
 
 * Locally :
     - Clone this repositoy on your desktop
