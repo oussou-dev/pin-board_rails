@@ -21,7 +21,7 @@ Pinterest Replica
 
 ##### Try Pin Board
 
-* Online  :  [hiptime-app](https://pin-board.herokuapp.com)    
+* Online  :  [pin-board](https://pin-board.herokuapp.com)    
 
 * Locally :
     - Clone this repositoy on your desktop
