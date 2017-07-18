@@ -3,7 +3,7 @@
 ~~~
 Pinterest Replica
 ~~~
-###### _week 3 - mackenziechild - 12in12 - challenge_
+###### _week 3 - 12in12 - challenge_
 
 <br/>
   
